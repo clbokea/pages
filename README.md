@@ -1,6 +1,5 @@
 # DAT17I - SWC SPRING 2018
-
-            <table class="table table-striped">
+<table class="table table-striped">
                 <tr>
                     <th>Week</th>
                     <th>Date</th>
@@ -258,7 +257,7 @@
                     <td></td>
                     <td>Eksamensopgave aflevering på WiseFlow</td>
                 </tr>
-            </table>
+</table>
             * Changes to this plan can occour. <br>
                 ** Der er en uge for meget i denne plan, så der vil være 2 undervisningsgange i løbet af dette semester der vil blive aflyst.
       
