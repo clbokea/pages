@@ -28,6 +28,7 @@ for(i = 1; i < rows.length; i++){
   var tds = rows[i].getElementsByTagName("td"); 
   tds[0].innerHTML= dates[i-1].week;
   tds[1].innerHTML= dates[i-1].date;
+  alert("hello");
 
 }
 
